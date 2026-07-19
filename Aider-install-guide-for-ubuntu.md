@@ -189,5 +189,5 @@ aider --model "$selectedModel"
 - Python Software Foundation. (n.d.). *Python 3.12 documentation*. Retrieved from https://docs.python.org/3.12/
 - GitHub. (n.d.). *Personal access tokens (classic)*. Retrieved from https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 - Ubuntu. (n.d.). *Ubuntu 26.04 LTS release notes*. Retrieved from https://releases.ubuntu.com/26.04/
-- pipx. (n.d.). *Install and Run Python Applications in Isolated Environments*. Retrieved from https://pypa.github.io/pipx/
+- pipx. (n.d.). *Install and Run Python Applications in Isolated Environments*.
 - Aider. (n.d.). *Aider Documentation*. Retrieved from https://aider.chat/docs/
