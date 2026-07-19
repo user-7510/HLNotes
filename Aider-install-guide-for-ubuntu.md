@@ -19,7 +19,7 @@ sudo apt install python3.12 python3.12-venv -y
 pipx ensurepath
 source ~/.bashrc
 pipx install --python python3.12 aider-chat
-
+```
 行號說明：
 1：更新系統本機套件清單。
 2：安裝 Python 套件管理工具 `pipx` 與 PPA 軟體源管理工具。
